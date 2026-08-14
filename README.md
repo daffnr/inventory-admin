@@ -22,28 +22,8 @@ Aplikasi web manajemen stok barang (inventory) sederhana yang dibangun menggunak
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
-
-### 1. Persyaratan Sistem
-- PHP 8.0 atau yang lebih baru
-- MySQL / MariaDB (misalnya XAMPP / Laragon)
-
-### 2. Inisialisasi Database
-Jalankan script `init_db.php` melalui terminal/Command Prompt untuk membuat database `db_inventory`, tabel ber-relasi, dan data awal:
-
-```bash
-php init_db.php
-```
-
-### 3. Jalankan Development Server PHP
-Jalankan web server bawaan PHP pada port 8000:
-
-```bash
-php -S 127.0.0.1:8000
-```
-
 Buka browser dan akses alamat:
-👉 **`http://127.0.0.1:8000`**
+👉 **`inventory-admin.infinityfreeapp.com`**
 
 ---
 
